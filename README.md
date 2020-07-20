@@ -2,7 +2,7 @@
 
 Greetings to all the colleagues in the computer science field!
 
-My name is **Ling Gao**, an undergraduate student from the Hunan Institute of Science and Technology. I am currently serving as an independent advisor in the Microsoft community, responsible for user support for Microsoft's pillar products such as Windows and Office. Meanwhile, I am also a loyal Microsoft Insider who has long been involved in Windows systems' software testing.
+My name is **Ling Gao** (KaiXiu Gao), an undergraduate student from the Hunan Institute of Science and Technology. I am currently serving as an independent advisor in the Microsoft community, responsible for user support for Microsoft's pillar products such as Windows and Office. Meanwhile, I am also a loyal Microsoft Insider who has long been involved in Windows systems' software testing.
 
 I have achieved excellent results in numerous aspects of my work. I have provided technical support to over **7,300** Microsoft product users, and my customer satisfaction (CSAT) has remained above **95%** throughout the year. Meanwhile, I have provided almost **600** feedback for Microsoft's products, including Windows and Edge, and ranked in the **top 10** of the global Windows Insider ranking multiple times, making substantial contributions to Microsoft products' vigorous development.
 
