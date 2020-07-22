@@ -13,8 +13,6 @@ Thank you sincerely for reading!
 ---
 ★ Until July 22, 2020 ★
 
-Number of Microsoft Windows feedbacks provided: **494**
-
-Number of Microsoft Edge feedbacks provided: **87 ± 10**
-
+Number of Microsoft Windows feedbacks provided: **494**  
+Number of Microsoft Edge feedbacks provided: **87 ± 10**  
 Number of affirmative votes received in the Feedback Hub: **1216**
