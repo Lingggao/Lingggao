@@ -8,11 +8,10 @@ I have achieved excellent results in numerous aspects of my work. I have provide
 
 Going forward in 2020, I will focus my work on **"cultivating more Windows Insider talents for Microsoft."** I plan to compile two e-books that elaborate on the knowledge and experiences I have learned from the theoretical and practical levels to Windows Insiders. I firmly believe that with the close collaboration of all Microsoft employees, product enthusiasts, and volunteers, Microsoft will someday succeed in achieving the great mission of **"empower every person and every organization on the planet to achieve more."**
 
-Thank you sincerely for reading!                          
+Thank you sincerely for reading!  
 
 ---
-★ Until July 22, 2020 ★
-
-Number of Microsoft Windows feedbacks provided: **494**  
-Number of Microsoft Edge feedbacks provided: **87 ± 10**  
-Number of affirmative votes received in the Feedback Hub: **1216**
+★ Until July 23, 2020 ★  
+Number of Microsoft Windows feedbacks provided: 496  
+Number of Microsoft Edge feedbacks provided: 88 ± 10  
+Number of affirmative votes received in the Feedback Hub: 1216  
