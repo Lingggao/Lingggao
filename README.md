@@ -1,3 +1,5 @@
+![Microsoft Learn Student Ambassador](https://github.com/Lingggao/Lingggao/blob/master/Microsoft%20Learn%20Student%20Ambassador.png?raw=true)
+
 # Personal Profile
 
 Greetings to all the colleagues in the computer science field!
@@ -10,7 +12,6 @@ Going forward in 2020, I will focus my work on **"cultivating more Windows Insid
 
 Thank you sincerely for reading!  
 
-![Microsoft Learn Student Ambassador](https://github.com/Lingggao/Lingggao/blob/master/Microsoft%20Learn%20Student%20Ambassador.png?raw=true)
 ---
 ★ Until August 7, 2020 ★  
 Number of Microsoft Windows feedbacks provided: **509**  
