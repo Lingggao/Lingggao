@@ -1,4 +1,4 @@
-![Microsoft Learn Student Ambassador](https://github.com/Lingggao/Lingggao/blob/master/Microsoft%20Learn%20Student%20Ambassador.png?raw=true)
+<img src="https://github.com/Lingggao/Lingggao/blob/master/Microsoft%20Learn%20Student%20Ambassador.png?raw=true" width = "80%" />
 
 # Personal Profile
 
