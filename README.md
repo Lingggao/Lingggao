@@ -1,4 +1,4 @@
-<img src="https://github.com/Lingggao/Lingggao/blob/master/Microsoft%20Learn%20Student%20Ambassador.png?raw=true" width = "70%" />
+<img src="https://github.com/Lingggao/Lingggao/blob/master/Microsoft%20Learn%20Student%20Ambassador.png?raw=true" width = "50%" /><img src="https://github.com/Lingggao/Lingggao/blob/master/Alpha%20Student%20Ambassador.png?raw=true" width = "50%" />
 
 # Personal Profile
 
