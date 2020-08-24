@@ -4,7 +4,7 @@
 
 ---
 
-> **Click to Enlarge Certificate (Linkedin Learning)**
+> **Click to Enlarge Certificate (LinkedIn Learning)**
 
 <img src="https://github.com/Lingggao/Lingggao/blob/master/002.png?raw=true" width = "20%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/003.png?raw=true" width = "20%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/001.png?raw=true" width = "20%" /><img src="https://github.com/Lingggao/Lingggao/blob/master/004.png?raw=true" width = "20%" />
 
