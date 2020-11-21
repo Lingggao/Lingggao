@@ -27,7 +27,7 @@ Going forward in 2020, I will focus my work on **"cultivating more Windows Insid
 Thank you sincerely for reading!  
 
 ---
-★ Until November 21, 2020 ★  
+★ Until November 22, 2020 ★  
 Number of Microsoft Windows feedbacks provided: **539**  
-Number of Microsoft Edge feedbacks provided: **112** ± 10  
+Number of Microsoft Edge feedbacks provided: **118** ± 10  
 Number of affirmative votes received in the Feedback Hub: **1327**  
