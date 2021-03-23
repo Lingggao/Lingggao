@@ -1,30 +1,8 @@
-> **Click to Enlarge Certificate (Microsoft Student Ambassador)**
-
 <img src="https://github.com/Lingggao/Lingggao/blob/master/Microsoft%20Learn%20Student%20Ambassador.png?raw=true" width = "50%" /><img src="https://github.com/Lingggao/Lingggao/blob/master/Alpha%20Student%20Ambassador.png?raw=true" width = "50%" />
-
----
-
-> **Click to Enlarge Certificate (LinkedIn Learning)**
-
-<img src="https://github.com/Lingggao/Lingggao/blob/master/002.png?raw=true" width = "24%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/003.png?raw=true" width = "24%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/001.png?raw=true" width = "24%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/004.png?raw=true" width = "24%" />
-
-<img src="https://github.com/Lingggao/Lingggao/blob/master/005.png?raw=true" width = "24%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/006.png?raw=true" width = "24%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/007.png?raw=true" width = "24%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/008.png?raw=true" width = "24%" />
-
-<img src="https://github.com/Lingggao/Lingggao/blob/master/009.png?raw=true" width = "24%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/010.png?raw=true" width = "24%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/011.png?raw=true" width = "24%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/012.png?raw=true" width = "24%" />
-
----
 
 # Personal Profile
 
-Greetings to all the colleagues in the computer science field!
-
-My name is **Ling Gao** (KaiXiu Gao), an undergraduate student from the Hunan Institute of Science and Technology. I am currently serving as an independent advisor in the Microsoft community, responsible for user support for Microsoft's pillar products such as Windows and Office. Meanwhile, I am also a loyal Microsoft Insider who has long been involved in Windows systems' software testing.
-
-I have achieved excellent results in numerous aspects of my work. I have provided technical support to over **10,000** Microsoft product users, and my customer satisfaction (CSAT) has remained above **98%** throughout the year. Meanwhile, I have provided almost **650** feedback for Microsoft's products, including Windows and Edge, and ranked in the **Top 10** of the global Windows Insider ranking multiple times, making substantial contributions to Microsoft products' vigorous development.
-
-Going forward in 2020, I will focus my work on **"cultivating more Windows Insider talents for Microsoft."** I plan to compile two e-books that elaborate on the knowledge and experiences I have learned from the theoretical and practical levels to Windows Insiders. I firmly believe that with the close collaboration of all Microsoft employees, product enthusiasts, and volunteers, Microsoft will someday succeed in achieving the great mission of **"empower every person and every organization on the planet to achieve more."**
-
-Thank you sincerely for reading!  
+高楷修 (Ling Gao) 先生是软件测试和客户服务双领域专家，同时也是 Microsoft Windows Insider (测试人员计划) 最有价值专家 (Windows Insider Most Valuable Professional, WIMVP)。Ling Gao 专家兼任 Microsoft 公司大中华区社区领袖 (Community Leader)、MSFT 学生大使 (Student Ambassador) 等多个高级志愿工作者职务，他为 12,000 余名 Microsoft 公司客户提供了技术支持服务，并且撰写了 700 余份 Microsoft 公司产品 / 服务缺陷报告和意见建议书。Ling Gao 专家为 Microsoft 公司培养了大量的优秀人才和志愿工作者，他为 Microsoft 公司产品和服务的蓬勃发展做出了卓越的贡献。
 
 ---
 ★ Until December 11, 2020 ★  
