@@ -6,6 +6,6 @@
 
 ---
 :cat: **Until March 23, 2021** :cat:  
-Number of Microsoft Windows feedbacks provided: **592**  
-Number of Microsoft Edge feedbacks provided: **140** ± 10  
-Number of affirmative votes received in the Feedback Hub: **1357**  
+Number of **Windows 10** feedbacks provided: **592**  
+Number of **Microsoft Edge** feedbacks provided: **140** ± 10  
+Number of days to become a **Windows Insider**: **1145** DAYs
