@@ -6,6 +6,6 @@
 
 ---
 ★ Until December 11, 2020 ★  
-Number of Microsoft Windows feedbacks provided: **541**  
+Number of Microsoft Windows feedbacks provided: **592**  
 Number of Microsoft Edge feedbacks provided: **120** ± 10  
-Number of affirmative votes received in the Feedback Hub: **1335**  
+Number of affirmative votes received in the Feedback Hub: **1357**  
