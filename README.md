@@ -11,7 +11,8 @@
 2019 年 2 月 - 2020 年 9 月 | **Microsoft 社区独立顾问 (Independent Advisor)**  
 2018 年 2 月 - 2020 年 4 月 | **Windows 系统测试人员 (Insider)**
 
-[**Windows Insider 最有价值专家 (MVP)**](https://insider.windows.com/en-us/mvps/ling-gao) | [**Microsoft 社区**](https://answers.microsoft.com/zh-hans/profile/c4a52f5b-dc12-47e5-a37c-53ae020cb7c2) | [**LinkedIn**](https://linkedin.com/in/lingggao) | [**Twitter**](https://twitter.com/CNGaoLing)
+[**Windows Insider 最有价值专家 (MVP)**](https://insider.windows.com/en-us/mvps/ling-gao)  
+[**Microsoft 社区**](https://answers.microsoft.com/zh-hans/profile/c4a52f5b-dc12-47e5-a37c-53ae020cb7c2) | [**LinkedIn**](https://linkedin.com/in/lingggao) | [**Twitter**](https://twitter.com/CNGaoLing)
 
 ---
 :cat: **Until April 12, 2021** :cat:  
