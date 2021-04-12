@@ -15,7 +15,7 @@
 ![LING](https://github.com/Lingggao/Lingggao/blob/master/2.png?raw=true)
 
 [**Windows Insider 最有价值专家 (MVP)**](https://insider.windows.com/en-us/mvps/ling-gao)  
-[**Microsoft 社区**](https://answers.microsoft.com/zh-hans/profile/c4a52f5b-dc12-47e5-a37c-53ae020cb7c2) | [**LinkedIn**](https://linkedin.com/in/lingggao) | [**Twitter**](https://twitter.com/CNGaoLing)
+[**Microsoft Community**](https://answers.microsoft.com/zh-hans/profile/c4a52f5b-dc12-47e5-a37c-53ae020cb7c2) | [**LinkedIn**](https://linkedin.com/in/lingggao) | [**Twitter**](https://twitter.com/CNGaoLing)
 
 ---
 :cat: **Until April 13, 2021** :cat:  
