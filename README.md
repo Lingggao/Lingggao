@@ -18,7 +18,7 @@
 [**Microsoft Community**](https://answers.microsoft.com/zh-hans/profile/c4a52f5b-dc12-47e5-a37c-53ae020cb7c2) | [**LinkedIn**](https://linkedin.com/in/lingggao) | [**Twitter**](https://twitter.com/CNGaoLing)
 
 ---
-:cat: **Until April 18, 2021** :cat:  
-Number of **Windows 10** feedbacks provided: **625**  
-Number of **Microsoft Edge** feedbacks provided: **148** ± 10  
-Number of days to become a **Windows Insider**: **1171** DAYs
+:cat: **Until May 4, 2021** :cat:  
+Number of **Windows 10** feedbacks provided: **645**  
+Number of **Microsoft Edge** feedbacks provided: **151** ± 10  
+Number of days to become a **Windows Insider**: **1187** DAYs
