@@ -6,7 +6,7 @@
 
 **高楷修专家生于中国辽宁，曾获得湖南理工学院工学学士学位。**
 
-2021 年 8 月 - **至 今** | **Microsoft 创新教育工作者 (MIE)**
+2021 年 8 月 - **至 今** | **Microsoft 创新教育工作者 (MIE)**  
 2021 年 2 月 - **至 今** | **Microsoft: Upwork 人才团队成员 (Talent)**  
 2021 年 1 月 - **至 今** | **Windows Insider 最有价值专家 (MVP)**  
 2020 年 9 月 - **至 今** | **Microsoft 社区领袖 (Community Leader)**  
