@@ -2,17 +2,17 @@
 
 # :smile_cat: 个人简历 (Personal Profile) :smile_cat:
 
-2021 年 10 月 - **至 今** | **Wicresoft 技术支持工程师、Microsoft 社区代理兼审阅人**  
-2021 年  8 月 - **至 今** | **Microsoft 创新教育工作者 (MIE)**  
-2021 年  2 月 - **至 今** | **Microsoft: Upwork 人才团队成员 (Talent)**  
-2021 年  1 月 - **至 今** | **Windows Insider 最有价值专家 (MVP)**  
-2020 年  9 月 - **至 今** | **Microsoft 社区领袖 (Community Leader)**  
-2020 年  8 月 - 2021 年 8 月 | **Microsoft 学生大使 (Student Ambassador)**  
-2020 年  4 月 - 2021 年 1 月 | **Windows Insider 专家 (Professional)**  
-2019 年  2 月 - 2020 年 9 月 | **Microsoft 社区独立顾问 (Independent Advisor)**  
-2018 年  2 月 - 2020 年 4 月 | **Windows 系统测试人员 (Insider)**
+2021 年 10 月 - **至 今** | **Wicresoft 技术支持工程师 (TSE)、Microsoft 社区代理 (Agent) 兼审阅人 (Moderator)**  
+2021 年 08 月 - **至 今** | **Microsoft 创新教育工作者 (MIE)**  
+2021 年 02 月 - **至 今** | **Microsoft: Upwork 人才团队成员 (Talent)**  
+2021 年 01 月 - **至 今** | **Windows Insider 最有价值专家 (MVP)**  
+2020 年 09 月 - **至 今** | **Microsoft 社区领袖 (Community Leader)**  
+2020 年 08 月 - 2021 年 8 月 | **Microsoft 学生大使 (Student Ambassador)**  
+2020 年 04 月 - 2021 年 1 月 | **Windows Insider 专家 (Professional)**  
+2019 年 02 月 - 2020 年 9 月 | **Microsoft 社区独立顾问 (Independent Advisor)**  
+2018 年 02 月 - 2020 年 4 月 | **Windows 系统测试人员 (Insider)**
 
 ![LING](https://github.com/Lingggao/Lingggao/blob/master/2.png?raw=true)
 
 [**Windows Insider 最有价值专家 (MVP)**](https://insider.windows.com/en-us/mvps/ling-gao)  
-[**Microsoft Community**](https://answers.microsoft.com/zh-hans/profile/c4a52f5b-dc12-47e5-a37c-53ae020cb7c2) | [**LinkedIn**](https://linkedin.com/in/lingggao) | [**Twitter**](https://twitter.com/CNGaoLing)
+[**Microsoft Community**](https://answers.microsoft.com/zh-hans/profile/c4a52f5b-dc12-47e5-a37c-53ae020cb7c2) | [**Microsoft Agent**](https://answers.microsoft.com/zh-hans/profile/855ff3d3-0539-4769-9b06-6c0224653a32) | [**LinkedIn**](https://linkedin.com/in/lingggao) | [**Twitter**](https://twitter.com/CNGaoLing) | [**Zhihu**](https://www.zhihu.com/people/linggao)
