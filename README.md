@@ -6,7 +6,7 @@
 2021 年 08 月 - **至 今** | **Microsoft 创新教育工作者 (MIE)**  
 2021 年 02 月 - **至 今** | **Microsoft: Upwork 人才团队成员 (Talent)**  
 2021 年 01 月 - **至 今** | **Windows Insider 最有价值专家 (MVP)**  
-2020 年 09 月 - **至 今** | **Microsoft 社区领袖 (Community Leader)**  
+2020 年 09 月 - **至 今** | **Microsoft 社区领袖 (Community Leader)、Microsoft 社区志愿审阅人 (VM)**  
 2020 年 08 月 - 2021 年 08 月 | **Microsoft 学生大使 (Student Ambassador)**  
 2020 年 04 月 - 2021 年 01 月 | **Windows Insider 专家 (Professional)**  
 2019 年 02 月 - 2020 年 09 月 | **Microsoft 社区独立顾问 (Independent Advisor)**  
