@@ -15,7 +15,7 @@
 
 ## 全 职 | FTE
 
-2022 年 09 月 - **至 今** | **拼多多** | \*  
+2022 年 09 月 - **至 今** | **拼多多** | **\***  
 2021 年 09 月 - 2022 年 07 月 | **Wicresoft** | **技术支持工程师 (TSE)**
 
 ## Microsoft (自由职业 / 合作伙伴 / 供应商)
@@ -23,6 +23,10 @@
 
 
 ## Microsoft (教育)
+
+2021 年 08 月 - **至 今** | **Microsoft** | **Microsoft 认证创新教师 (MIE)** [原 “Microsoft 创新教育工作者”]  
+2020 年 10 月 - 2021 年 08 月 | **Microsoft** | **Microsoft Learn 学生大使 (Student Ambassador) Beta 里程碑**  
+2020 年 08 月 - 2021 年 10 月 | **Microsoft** | **Microsoft Learn 学生大使 (Student Ambassador) Alpha 里程碑**
 
 ## Microsoft (Insider)
 
