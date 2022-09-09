@@ -1,6 +1,6 @@
 <img src="https://github.com/Lingggao/Lingggao/blob/master/Ling%20Gao%20WIMVP%20Certificate.png?raw=true" width = "50%" /><img src="https://github.com/Lingggao/Lingggao/blob/master/MSFT%20Student%20Ambassador_00.png?raw=true" width = "50%" />
 
-# :smiley_cat: 个人简历 (Personal Profile) :smile_cat:
+# :smiley_cat: 简历 | Profile :smile_cat:
 
 2022 年 09 月 - **至 今** | **拼多多**  
 2021 年 08 月 - **至 今** | **Microsoft 创新教育工作者 (MIE)**  
