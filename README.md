@@ -13,6 +13,11 @@
 2019 年 02 月 - 2020 年 09 月 | **Microsoft 社区独立顾问 (Independent Advisor)**  
 2018 年 02 月 - 2020 年 04 月 | **Windows 系统测试人员 (Insider)**
 
+## 全 职
+
+2022 年 09 月 - **至 今** | 拼多多 | \*
+2021 年 09 月 - 2022 年 07 月 | Wicresoft | 技术支持工程师 (TSE)
+
 ![LING](https://github.com/Lingggao/Lingggao/blob/master/2.png?raw=true)
 
 [Windows Insider 最有价值专家 (WIMVP)](https://insider.windows.com/en-us/mvps/ling-gao) **[停用]**  
