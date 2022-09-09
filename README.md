@@ -2,6 +2,8 @@
 
 # :smiley_cat: 简历 | Profile :smile_cat:
 
+![LING](https://github.com/Lingggao/Lingggao/blob/master/2.png?raw=true)
+
 ## 全 职 | FTE
 
 2022 年 09 月 - **至 今** | **拼多多** | **\***  
@@ -26,7 +28,7 @@
 2020 年 04 月 - 2021 年 01 月 | **Windows Insider 专家 (Professional)**  
 2018 年 02 月 - 2020 年 04 月 | **Windows 系统测试人员 (Insider)**
 
-![LING](https://github.com/Lingggao/Lingggao/blob/master/2.png?raw=true)
+----
 
 [Windows Insider 最有价值专家 (WIMVP)](https://insider.windows.com/en-us/mvps/ling-gao) **[停用]**  
 [Microsoft Moderator](https://answers.microsoft.com/zh-hans/profile/c4a52f5b-dc12-47e5-a37c-53ae020cb7c2) **[停用]** | [**Microsoft Agent**](https://answers.microsoft.com/zh-hans/profile/855ff3d3-0539-4769-9b06-6c0224653a32) | [**LinkedIn**](https://linkedin.com/in/lingggao) | [**Twitter**](https://twitter.com/CNGaoLing) | [**Zhihu**](https://www.zhihu.com/people/linggao)
