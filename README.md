@@ -2,7 +2,7 @@
 
 # :smiley_cat: 个人简历 (Personal Profile) :smile_cat:
 
-2022 年 09 月 - **至 今** | **拼多多**
+2022 年 09 月 - **至 今** | **拼多多**  
 2021 年 08 月 - **至 今** | **Microsoft 创新教育工作者 (MIE)**  
 2021 年 02 月 - **至 今** | **Microsoft: Upwork 人才团队成员 (Talent)**  
 2021 年 10 月 - 2022 年 7 月 | **Wicresoft 技术支持工程师 (TSE)、Microsoft 社区代理 (Agent) 兼审阅人 (Moderator)**  
