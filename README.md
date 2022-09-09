@@ -2,37 +2,29 @@
 
 # :smiley_cat: 简历 | Profile :smile_cat:
 
-2022 年 09 月 - **至 今** | **拼多多**  
-2021 年 08 月 - **至 今** | **Microsoft 创新教育工作者 (MIE)**  
-2021 年 02 月 - **至 今** | **Microsoft: Upwork 人才团队成员 (Talent)**  
-2021 年 10 月 - 2022 年 7 月 | **Wicresoft 技术支持工程师 (TSE)、Microsoft 社区代理 (Agent) 兼审阅人 (Moderator)**  
-2020 年 09 月 - 2022 年 4 月 | **Microsoft 社区领导者 (Community Leader)、Microsoft 社区志愿审阅人 (VM)**  
-2021 年 01 月 - 2021 年 11 月 | **Windows Insider 最有价值专家 (MVP)**  
-2020 年 08 月 - 2021 年 08 月 | **Microsoft 学生大使 (Student Ambassador)**  
-2020 年 04 月 - 2021 年 01 月 | **Windows Insider 专家 (Professional)**  
-2019 年 02 月 - 2020 年 09 月 | **Microsoft 社区独立顾问 (Independent Advisor)**  
-2018 年 02 月 - 2020 年 04 月 | **Windows 系统测试人员 (Insider)**
-
 ## 全 职 | FTE
 
 2022 年 09 月 - **至 今** | **拼多多** | **\***  
 2021 年 09 月 - 2022 年 07 月 | **Wicresoft** | **技术支持工程师 (TSE)**
 
-## Microsoft (自由职业 / 合作伙伴 / 供应商)
+## Microsoft (供应商 / 合作伙伴 / 自由职业)
 
-
+2021 年 02 月 - **至 今** | **Microsoft Upwork 人才团队成员 (Talent)**  
+2021 年 10 月 - 2022 年 4 月 | **Microsoft 社区代理 (Agent) 兼审阅人 (Moderator)**  
+2020 年 09 月 - 2022 年 4 月 | **Microsoft 社区志愿审阅人 (Volunteer Moderator)**  
+2019 年 02 月 - 2020 年 09 月 | **Microsoft 社区独立顾问 (Independent Advisor)**
 
 ## Microsoft (教育)
 
-2021 年 08 月 - **至 今** | **Microsoft** | **Microsoft 认证创新教师 (MIE)** [原 “Microsoft 创新教育工作者”]  
-2020 年 10 月 - 2021 年 08 月 | **Microsoft** | **Microsoft Learn 学生大使 (Student Ambassador) Beta 里程碑**  
-2020 年 08 月 - 2021 年 10 月 | **Microsoft** | **Microsoft Learn 学生大使 (Student Ambassador) Alpha 里程碑**
+2021 年 08 月 - **至 今** | **Microsoft 认证创新教师 (MIE)** [原 “Microsoft 创新教育工作者”]  
+2020 年 10 月 - 2021 年 08 月 | **Microsoft Learn 学生大使 (Student Ambassador) Beta 里程碑**  
+2020 年 08 月 - 2021 年 10 月 | **Microsoft Learn 学生大使 (Student Ambassador) Alpha 里程碑**
 
 ## Microsoft (Insider)
 
-2021 年 01 月 - 2021 年 11 月 | **Microsoft** | **Windows Insider 最有价值专家 (WIMVP)**  
-2020 年 04 月 - 2021 年 01 月 | **Microsoft** | **Windows Insider 专家 (Professional)**  
-2018 年 02 月 - 2020 年 04 月 | **Microsoft** | **Windows 系统测试人员 (Insider)**
+2021 年 01 月 - 2021 年 11 月 | **Windows Insider 最有价值专家 (WIMVP)**  
+2020 年 04 月 - 2021 年 01 月 | **Windows Insider 专家 (Professional)**  
+2018 年 02 月 - 2020 年 04 月 | **Windows 系统测试人员 (Insider)**
 
 ![LING](https://github.com/Lingggao/Lingggao/blob/master/2.png?raw=true)
 
