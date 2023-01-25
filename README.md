@@ -24,10 +24,11 @@
 
 ## Microsoft (教 育)
 
-<img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_0.svg" width = "10%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_1.svg" width = "10%" />
+<img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_0.svg" width = "10%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_1.svg" width = "10%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/c22e1e280ae97f32cf2b9f9836635aae15d32054/ME_0.svg" width = "10%" />
 
 [**查看 Microsoft Learn**](https://learn.microsoft.com/zh-cn/users/kaixiugao)
 
+2022 年 01 月 - **至 今** | **Microsoft 教师 (Educator)** [替换 “Microsoft 认证创新教师 (MIE)”]  
 2021 年 08 月 - **至 今** | **Microsoft 认证创新教师 (MIE)** [原 “Microsoft 创新教育工作者”]  
 2020 年 10 月 - 2021 年 08 月 | **Microsoft Learn 学生大使 (Student Ambassador) Beta 里程碑**  
 2020 年 08 月 - 2021 年 10 月 | **Microsoft Learn 学生大使 (Student Ambassador) Alpha 里程碑**
