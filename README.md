@@ -15,6 +15,8 @@
 
 ## Microsoft (供应商 & 合作伙伴 & 自由职业)
 
+[**Microsoft 社区名人录**](https://answers.microsoft.com/zh-hans/page/faq#faqWhosWho)
+
 2021 年 02 月 - **至 今** | **Microsoft Upwork 人才团队成员 (Talent)**  
 2021 年 10 月 - 2022 年 04 月 | **Microsoft 社区代理 (Agent) 兼审阅人 (Moderator)**  
 2020 年 09 月 - 2022 年 04 月 | **Microsoft 社区志愿审阅人 (Volunteer Moderator)**  
