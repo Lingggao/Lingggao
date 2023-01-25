@@ -1,5 +1,3 @@
-<img src="https://github.com/Lingggao/Lingggao/blob/master/Ling%20Gao%20WIMVP%20Certificate.png?raw=true" width = "50%" /><img src="https://github.com/Lingggao/Lingggao/blob/master/MSFT%20Student%20Ambassador_00.png?raw=true" width = "50%" />
-
 # :smiley_cat: 简历 | Profile :smile_cat:
 
 ![LING](https://github.com/Lingggao/Lingggao/blob/master/2.png?raw=true)
