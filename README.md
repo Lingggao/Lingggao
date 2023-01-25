@@ -34,7 +34,7 @@
 
 <img src="https://github.com/Lingggao/Lingggao/blob/master/WIMVP.png?raw=true" width = "20%" />
 
-**点击此处查看证书**
+[**查看证书**](https://raw.githubusercontent.com/Lingggao/Lingggao/74c732edcfbc0908365a75faa1469acad1be90fe/Ling%20Gao%20WIMVP%20Certificate.png)
 
 2021 年 01 月 - 2021 年 11 月 | **2021 年度 Windows Insider 最有价值专家 (WIMVP)**  
 2020 年 04 月 - 2021 年 01 月 | **Windows Insider 专家 (Professional)**  
