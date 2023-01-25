@@ -1,4 +1,4 @@
-# :smiley_cat: 简历 | Profile :smile_cat:
+# :smiley_cat: 简 历 | Profile :smile_cat:
 
 ![LING](https://github.com/Lingggao/Lingggao/blob/master/2.png?raw=true)
 
@@ -7,7 +7,7 @@
 2022 年 09 月 - **至 今** | **拼多多** | **信息合规审查**  
 2021 年 09 月 - 2022 年 07 月 | **Wicresoft** | **技术支持工程师 (TSE)**
 
-## 文学 & 艺术 | Literary & Art
+## 文 学 & 艺 术 | Literary & Art
 
 2023 年 01 月 - **至 今** | **上海长宁文化艺术中心** | **文旅志愿者 (长艺日夜伙伴)**  
 2022 年 11 月 - **至 今** | **上海市文学艺术界联合会 (上海市书法家协会)** | [**文艺志愿者**](http://www.wyzyz.org/)  
@@ -22,7 +22,7 @@
 2020 年 09 月 - 2022 年 04 月 | **Microsoft 社区志愿审阅人 (Volunteer Moderator)**  
 2019 年 02 月 - 2020 年 09 月 | **Microsoft 社区独立顾问 (Independent Advisor)**
 
-## Microsoft (教育)
+## Microsoft (教 育)
 
 <img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_0.svg" width = "10%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_1.svg" width = "10%" />
 
