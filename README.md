@@ -32,7 +32,7 @@
 
 ## Microsoft (Insider)
 
-<img src="https://github.com/Lingggao/Lingggao/blob/master/WIMVP.png?raw=true" width = "20%" />
+<img src="https://github.com/Lingggao/Lingggao/blob/master/WIMVP.png?raw=true" width = "20%" />  
 **(点击此处查看证书)**
 
 2021 年 01 月 - 2021 年 11 月 | **2021 年度 Windows Insider 最有价值专家 (WIMVP)**  
