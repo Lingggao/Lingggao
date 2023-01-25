@@ -24,6 +24,8 @@
 
 ## Microsoft (教育)
 
+<img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_0.svg" width = "50%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_1.svg" width = "50%" />
+
 2021 年 08 月 - **至 今** | **Microsoft 认证创新教师 (MIE)** [原 “Microsoft 创新教育工作者”]  
 2020 年 10 月 - 2021 年 08 月 | **Microsoft Learn 学生大使 (Student Ambassador) Beta 里程碑**  
 2020 年 08 月 - 2021 年 10 月 | **Microsoft Learn 学生大使 (Student Ambassador) Alpha 里程碑**
