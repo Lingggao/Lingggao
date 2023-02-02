@@ -4,6 +4,7 @@
 
 ## 全 职 | FTE
 
+2023 年 02 月 - **至 今** | <img src="https://github.com/Lingggao/Lingggao/blob/master/CCP.png?raw=true" width = "10%" />
 2022 年 09 月 - **至 今** | **拼多多** | **信息合规审查**  
 2021 年 09 月 - 2022 年 07 月 | **Wicresoft** | **技术支持工程师 (TSE)**
 
