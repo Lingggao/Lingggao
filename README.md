@@ -1,6 +1,6 @@
 # :smiley_cat: 简 历 | Profile :smile_cat:
 
-<img src="https://github.com/Lingggao/Lingggao/blob/master/LINGLOGO.png?raw=true" width = "30%" />
+
 
 ## 全 职 | FTE
 
