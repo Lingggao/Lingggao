@@ -2,6 +2,8 @@
 
 <img src="https://github.com/Lingggao/Lingggao/blob/master/LINGLOGO1.png?raw=true" width = "25%" />
 
+高楷修，男，汉族，2000 年 8 月生，辽宁锦州人，2019 年 2 月参加工作，2013 年 12 月加入中国共产主义青年团，新闻从业人员，湖南理工学院信息科学与工程学院信息工程专业毕业，本科学历，工学学士学位。
+
 ## 全 职 | FTE
 
 2023 年 02 月 - **至 今** | <img src="https://github.com/Lingggao/Lingggao/blob/master/CCP.png?raw=true" width = "1.5%" /> **上海报业集团** | **\***  
