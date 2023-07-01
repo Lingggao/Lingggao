@@ -44,6 +44,8 @@
 
 [**查看证书**](https://raw.githubusercontent.com/Lingggao/Lingggao/74c732edcfbc0908365a75faa1469acad1be90fe/Ling%20Gao%20WIMVP%20Certificate.png)
 
+&emsp;&emsp;In recognition and value of your expertise, exceptional contributions, and commitment to technical communities across the globe, we are pleased to grant you the designation of Windows InsideI MVP.（）
+
 2021 年 01 月 - 2021 年 11 月 | **2021 年度 Windows Insider 最有价值专家 (WIMVP)**  
 2020 年 04 月 - 2021 年 01 月 | **Windows Insider 专家 (Professional)**  
 2018 年 02 月 - 2020 年 04 月 | **Windows 系统测试人员 (Insider)**
