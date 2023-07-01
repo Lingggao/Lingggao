@@ -49,7 +49,7 @@
 2021 年 01 月 - 2021 年 11 月 | **2021 年度 Windows Insider 最有价值专家 (WIMVP)**  
 2020 年 04 月 - 2021 年 01 月 | **Windows Insider 专家 (Professional)**  
 2018 年 02 月 - 2020 年 04 月 | **Windows 系统测试人员 (Insider)**
-1145141919810
+
 ----
 
 [Windows Insider 最有价值专家 (WIMVP)](https://insider.windows.com/en-us/mvps/ling-gao) **[停用]**  
