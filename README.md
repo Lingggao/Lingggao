@@ -1,20 +1,20 @@
-# :smiley_cat: 简 历 | Profile :smile_cat:
+# :smiley_cat: 简历 | Profile :smile_cat:
 
 <img src="https://github.com/Lingggao/Lingggao/blob/master/LINGLOGO1.png?raw=true" width = "25%" />
 
 &emsp;&emsp;高楷修，男，汉族，2000 年 8 月生，辽宁锦州人，2019 年 2 月参加工作，2013 年 12 月加入中国共产主义青年团，新闻从业人员，湖南理工学院信息科学与工程学院信息工程专业毕业，本科学历，工学学士学位。
 
-## 全 职 | FTE
+## 全职 | FTE
 
-2023 年 02 月 - **至 今** | <img src="https://github.com/Lingggao/Lingggao/blob/master/CCP.png?raw=true" width = "1.5%" /> **上海报业集团** | **\***  
+2023 年 02 月 - **至今** | <img src="https://github.com/Lingggao/Lingggao/blob/master/CCP.png?raw=true" width = "1.5%" /> **上海报业集团** | **\***  
 2022 年 09 月 - 2023 年 02 月 | **拼多多** | **信息合规审查**  
 2021 年 09 月 - 2022 年 07 月 | **Wicresoft** [**Microsoft Vendor**] | **技术支持工程师 (TSE)** [**Microsoft 社区支持专家**]
 
-## 文 学 & 艺 术 | Literary & Art
+## 文学 & 艺术 | Literary & Art
 
-2023 年 01 月 - **至 今** | **上海长宁文化艺术中心** | **文旅志愿者 (长艺日夜伙伴)**  
-2022 年 11 月 - **至 今** | **上海市文学艺术界联合会 上海市书法家协会** | [**文艺志愿者**](http://www.wyzyz.org/Zhiyuanzhexiehui/201806/t20180622_409895.htm)  
-2017 年 11 月 - 2019 年 11 月 | **湖南理工学院书法协会 (硬笔) 专业部** | **干 事**
+2023 年 01 月 - **至今** | **上海长宁文化艺术中心** | **文旅志愿者 (长艺日夜伙伴)**  
+2022 年 11 月 - **至今** | **上海市文学艺术界联合会 上海市书法家协会** | [**文艺志愿者**](http://www.wyzyz.org/Zhiyuanzhexiehui/201806/t20180622_409895.htm)  
+2017 年 11 月 - 2019 年 11 月 | **湖南理工学院书法协会 (硬笔) 专业部** | **干事**
 
 2023 年 03 月，墨点书法教育研究院，第七期全国书法教师线上特训班，结业。  
 2023 年 08 月，[中国传统文化促进会](https://www.tcpc.org.cn/)，入选中国传统文化人才（书法，初级）。
@@ -23,12 +23,12 @@
 
 [**Microsoft 社区名人录**](https://answers.microsoft.com/zh-hans/page/faq#faqWhosWho)
 
-2021 年 02 月 - **至 今** | **Microsoft Upwork 人才团队成员 (Talent)**  
+2021 年 02 月 - **至今** | **Microsoft Upwork 人才团队成员 (Talent)**  
 2021 年 10 月 - 2022 年 04 月 | **Microsoft 社区代理 (Agent) 兼审阅人 (Moderator)**  
 2020 年 09 月 - 2022 年 04 月 | **Microsoft 社区志愿审阅人 (Volunteer Moderator)**  
 2019 年 02 月 - 2020 年 09 月 | **Microsoft 社区独立顾问 (Independent Advisor)**
 
-## Microsoft (教 育)
+## Microsoft (教育)
 
 <img src="https://github.com/Lingggao/Lingggao/blob/master/MLSA.png?raw=true" width = "11%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_0.svg" width = "10%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_1.svg" width = "10%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/c22e1e280ae97f32cf2b9f9836635aae15d32054/ME_0.svg" width = "10%" />
 
