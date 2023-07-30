@@ -34,7 +34,7 @@
 
 [**查看 Microsoft Learn**](https://learn.microsoft.com/zh-cn/users/kaixiugao)
 
-2023 年 01 月 - **至 今** | **Microsoft 教师 (Educator)** [替换 “Microsoft 认证创新教师 (MIE)”]  
+2023 年 01 月 - **至今** | **Microsoft 教师 (Educator)** [替换 “Microsoft 认证创新教师 (MIE)”]  
 2021 年 08 月 - 2023 年 01 月 | **Microsoft 认证创新教师 (MIE)** [原 “Microsoft 创新教育工作者”]  
 2020 年 10 月 - 2021 年 08 月 | **Microsoft Learn 学生大使 (Student Ambassador) Beta 里程碑**  
 2020 年 08 月 - 2020 年 10 月 | **Microsoft Learn 学生大使 (Student Ambassador) Alpha 里程碑**
