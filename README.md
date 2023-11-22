@@ -4,7 +4,7 @@
 
 &emsp;&emsp;高楷修，男，汉族，2000 年 8 月生，辽宁锦州人，2019 年 2 月参加工作，2013 年 12 月加入中国共产主义青年团，新闻从业人员，湖南理工学院信息科学与工程学院信息工程专业毕业，本科学历，工学学士学位。
 
-&emsp;&emsp;微软 2021 年度 Windows Insider 最有价值专家，微软社区原支持专家，微软 “” 计划成员。
+&emsp;&emsp;微软 2021 年度 Windows Insider 最有价值专家，微软社区原支持专家，微软 “管理客户联系” 计划成员。
 
 ## 全职 | FTE
 
@@ -25,7 +25,7 @@
 
 [**Microsoft 社区名人录**](https://answers.microsoft.com/zh-hans/page/faq#faqWhosWho)
 
-2023 年 11 月 - **至今** | **编辑中**  
+2023 年 11 月 - **至今** | **Microsoft Management Customer Connection 计划成员**  
 2021 年 02 月 - **至今** | **Microsoft Upwork 人才团队成员 (Talent)**  
 2021 年 10 月 - 2022 年 04 月 | **Microsoft 社区代理 (Agent) 兼审阅人 (Moderator)**  
 2020 年 09 月 - 2022 年 04 月 | **Microsoft 社区志愿审阅人 (Volunteer Moderator)**  
