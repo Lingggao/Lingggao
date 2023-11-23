@@ -23,6 +23,8 @@
 
 ## Microsoft (供应商 & 合作伙伴 & 自由职业)
 
+<img src="https://github.com/Lingggao/Lingggao/blob/master/content.png?raw=true" width = "11%" />
+
 [**Microsoft 社区名人录**](https://answers.microsoft.com/zh-hans/page/faq#faqWhosWho)
 
 2023 年 11 月 - **至今** | **Microsoft Management · Customer Connection 计划成员 (Partner)**  
