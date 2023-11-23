@@ -50,7 +50,7 @@
 
 &emsp;&emsp;In recognition and value of your expertise, exceptional contributions, and commitment to technical communities across the globe, we are pleased to grant you the designation of Windows Insider MVP. (为表彰您的专业知识、杰出贡献以及对全球技术社区的投入，我们很高兴授予您 Windows Insider MVP 称号。)&emsp;&emsp;—— **Microsoft Corporation (微软公司)**
 
-2021 年 01 月 - 2021 年 11 月 | **2021 年度 Windows Insider 最有价值专家 (WIMVP)**  
+★ | **2021 年度 Windows Insider 最有价值专家 (WIMVP)**  
 2020 年 04 月 - 2021 年 01 月 | **Windows Insider 专家 (Professional)**  
 2018 年 02 月 - 2020 年 04 月 | **Windows 系统测试人员 (Insider)**
 
