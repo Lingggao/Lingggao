@@ -1,4 +1,4 @@
-# :smiley_cat: 简历 | Profile :smile_cat:
+# 简历 | Profile
 
 <img src="https://github.com/Lingggao/Lingggao/blob/master/LINGLOGO1.png?raw=true" width = "25%" />
 
