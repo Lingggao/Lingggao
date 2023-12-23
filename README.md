@@ -4,7 +4,7 @@
 
 &emsp;&emsp;高楷修，男，汉族，2000 年 8 月生，辽宁锦州人，2019 年 2 月参加工作，2013 年 12 月加入中国共产主义青年团，新闻从业人员，湖南理工学院信息科学与工程学院信息工程专业毕业，本科学历，工学学士学位。
 
-&emsp;&emsp;微软 2021 年度 Windows Insider 最有价值专家，微软社区原支持专家，微软 “管理 · 客户联系” 计划成员。参与微软产品的测试、支持、运营、本地化、宣传工作。为超过 5 万名客户提供技术支持，撰写文章惠及 300 余万人/次，反馈数百个软件缺陷。
+&emsp;&emsp;微软 2021 年度 Windows Insider 最有价值专家，微软社区原支持专家，微软 “管理 · 客户联系” 计划成员。参与微软产品的测试、支持、运营、本地化、宣传工作。为超过 5 万名客户提供技术支持，撰写文章惠及 300 余万人/次，反馈软件缺陷数百个。
 
 ## 全职 | FTE
 
@@ -39,7 +39,8 @@
 
 [**查看 Microsoft Learn**](https://learn.microsoft.com/zh-cn/users/kaixiugao)
 
-2023 年 01 月 - **至今** | **Microsoft 教师 (Educator)** [替换 “Microsoft 认证创新教师 (MIE)”]  
+2024 年 01 月 - **至今** | **Microsoft 高级教师 (Advanced Educator)**  
+2023 年 01 月 - 2024 年 01 月 | **Microsoft 教师 (Educator)** [替换 “Microsoft 认证创新教师 (MIE)”]  
 2021 年 08 月 - 2023 年 01 月 | **Microsoft 认证创新教师 (MIE)** [原 “Microsoft 创新教育工作者”]  
 2020 年 10 月 - 2021 年 08 月 | **Microsoft Learn 学生大使 (Student Ambassador) Beta 里程碑**  
 2020 年 08 月 - 2020 年 10 月 | **Microsoft Learn 学生大使 (Student Ambassador) Alpha 里程碑**
