@@ -17,7 +17,7 @@
 
 ## Microsoft (合作伙伴 & 供应商 & 外聘人员)
 
-<img src="https://github.com/Lingggao/Lingggao/blob/master/content.png?raw=true" width = "10%" /><img src="https://github.com/Lingggao/Lingggao/blob/master/MCC2024.png?raw=true" width = "10%" />
+<img src="https://github.com/Lingggao/Lingggao/blob/master/content.png?raw=true" width = "10%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/MCC2024.png?raw=true" width = "10%" />
 
 [**Microsoft 社区名人录**](https://answers.microsoft.com/zh-hans/page/faq#faqWhosWho)
 
