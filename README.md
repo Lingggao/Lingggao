@@ -33,7 +33,7 @@
 
 ## Microsoft (教育)
 
-<img src="https://github.com/Lingggao/Lingggao/blob/master/MLSA.png?raw=true" width = "11%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_0.svg" width = "10%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_1.svg" width = "10%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/c22e1e280ae97f32cf2b9f9836635aae15d32054/ME_0.svg" width = "10%" />
+<img src="https://github.com/Lingggao/Lingggao/blob/master/MLSA.png?raw=true" width = "11%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_0.svg" width = "10%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_1.svg" width = "10%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/c22e1e280ae97f32cf2b9f9836635aae15d32054/ME_0.svg" width = "10%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/3f4ac385955cbd45128a9263928144cebe9abf26/MAE.svg" width = "10%" />
 
 [**查看 Microsoft Learn**](https://learn.microsoft.com/zh-cn/users/kaixiugao)
 
