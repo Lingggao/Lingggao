@@ -8,7 +8,7 @@
 
 ## 社会 | Social
 
-2024 年 02 月 - **至今** | **上海市网络清朗空间守护者**  
+2024 年 03 月 - **至今** | **上海市网络清朗空间守护者**  
 2023 年 01 月 - **至今** | **上海长宁文化艺术中心** | **文旅志愿者**  
 2022 年 11 月 - **至今** | **上海市文学艺术界联合会** | [**文艺志愿者**](http://www.wyzyz.org/Zhiyuanzhexiehui/201806/t20180622_409895.htm)  
 
@@ -21,12 +21,12 @@
 
 [**Microsoft 社区名人录**](https://answers.microsoft.com/zh-hans/page/faq#faqWhosWho)
 
-★ **Microsoft 高级合作伙伴 ()**  
-★ **2024 年度 Microsoft 社区贡献者 ()**
+★ **Microsoft 高级合作伙伴**  
+★ **2024 年度 Microsoft 社区贡献者**
 
-2024 年 02 月 - **至今** | *暂保密*  
-2023 年 11 月 - **至今** | **Microsoft Customer Connection 计划成员 (Partner)**  
-2021 年 02 月 - **至今** | **Microsoft Upwork 人才团队成员 (Talent)**  
+2024 年 03 月 - **至今** | *暂保密*  
+2023 年 11 月 - **至今** | **Microsoft Customer Connection 计划成员**  
+2021 年 02 月 - **至今** | **Microsoft Upwork 人才团队成员**  
 2021 年 10 月 - 2022 年 04 月 | **Microsoft 社区代理 (Agent) 兼审阅人 (Moderator)**  
 2020 年 09 月 - 2022 年 04 月 | **Microsoft 社区志愿审阅人 (Volunteer Moderator)**  
 2019 年 02 月 - 2020 年 09 月 | **Microsoft 社区独立顾问 (Independent Advisor)**
