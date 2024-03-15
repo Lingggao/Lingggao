@@ -31,6 +31,17 @@
 2020 年 09 月 - 2022 年 04 月 | **Microsoft 社区志愿审阅人 (Volunteer Moderator)**  
 2019 年 02 月 - 2020 年 09 月 | **Microsoft 社区独立顾问 (Independent Advisor)**
 
+## Windows Insider
+
+<img src="https://github.com/Lingggao/Lingggao/blob/master/WIMVP.png?raw=true" width = "20%" />
+
+[**查看证书**](https://raw.githubusercontent.com/Lingggao/Lingggao/74c732edcfbc0908365a75faa1469acad1be90fe/Ling%20Gao%20WIMVP%20Certificate.png)
+
+&emsp;&emsp;In recognition and value of your expertise, exceptional contributions, and commitment to technical communities across the globe, we are pleased to grant you the designation of Windows Insider MVP. (为表彰您的专业知识、杰出贡献以及对全球技术社区的投入，我们很高兴授予您 Windows Insider MVP 称号。)&emsp;&emsp;—— **Microsoft Corporation (微软公司)**
+
+★ **2021 年度 Windows Insider 最有价值专家 (WIMVP)**  
+2018 年 02 月 - **至今** | **Windows 系统测试人员 (Insider)**
+
 ## Microsoft (教育)
 
 <img src="https://github.com/Lingggao/Lingggao/blob/master/MLSA.png?raw=true" width = "11%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_0.svg" width = "10%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/48444a2552a9acba98ccdd8c9a38a281886a607f/MIE_1.svg" width = "10%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/c22e1e280ae97f32cf2b9f9836635aae15d32054/ME_0.svg" width = "10%" /><img src="https://raw.githubusercontent.com/Lingggao/Lingggao/2e259bd6cd18694e8b983d3551fd8576b7f3f991/MAE1.svg" width = "10%" />
@@ -42,17 +53,6 @@
 2021 年 08 月 - 2023 年 01 月 | **Microsoft 认证创新教师 (MIE)** [原 “Microsoft 创新教育工作者”]  
 2020 年 10 月 - 2021 年 08 月 | **Microsoft Learn 学生大使 (Student Ambassador) Beta 里程碑**  
 2020 年 08 月 - 2020 年 10 月 | **Microsoft Learn 学生大使 (Student Ambassador) Alpha 里程碑**
-
-## Microsoft (Insider)
-
-<img src="https://github.com/Lingggao/Lingggao/blob/master/WIMVP.png?raw=true" width = "20%" />
-
-[**查看证书**](https://raw.githubusercontent.com/Lingggao/Lingggao/74c732edcfbc0908365a75faa1469acad1be90fe/Ling%20Gao%20WIMVP%20Certificate.png)
-
-&emsp;&emsp;In recognition and value of your expertise, exceptional contributions, and commitment to technical communities across the globe, we are pleased to grant you the designation of Windows Insider MVP. (为表彰您的专业知识、杰出贡献以及对全球技术社区的投入，我们很高兴授予您 Windows Insider MVP 称号。)&emsp;&emsp;—— **Microsoft Corporation (微软公司)**
-
-★ **2021 年度 Windows Insider 最有价值专家 (WIMVP)**  
-2018 年 02 月 - **至今** | **Windows 系统测试人员 (Insider)**
 
 ----
 
