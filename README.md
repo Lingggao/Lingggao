@@ -33,7 +33,7 @@
 
 ## Windows Insider
 
-<img src="https://github.com/Lingggao/Lingggao/blob/master/WIMVP.png?raw=true" width = "20%" />
+<img src="https://github.com/Lingggao/Lingggao/blob/master/WIMVP.png?raw=true" width = "20%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/WIPL.png?raw=true" width = "9.5%" />
 
 [**查看证书**](https://raw.githubusercontent.com/Lingggao/Lingggao/74c732edcfbc0908365a75faa1469acad1be90fe/Ling%20Gao%20WIMVP%20Certificate.png)
 
