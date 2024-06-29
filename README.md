@@ -8,7 +8,7 @@
 
 ## 社会 | Social
 
-2023 年 02 月 - **至今** | <img src="https://github.com/Lingggao/Lingggao/blob/master/CCP.png?raw=true" width = "1.5%" /> **上海某集团** | *暂不公开*  
+2023 年 02 月 - **至今** | **上海某集团** | *暂不公开*  
 2022 年 08 月 - 2023 年 02 月 | **拼多多** | **信息合规审查专员**  
 2021 年 09 月 - 2022 年 06 月 | **Wicresoft** | **技术支持工程师**
 
