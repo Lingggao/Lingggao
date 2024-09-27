@@ -34,8 +34,8 @@
 ★ **Microsoft 高级合作伙伴 (Elite Partner)**  
 ★ **2024 年度 Microsoft 社区贡献者 (Community Contributor)**  
 ★ **2024 年度 Microsoft 社区拥护者 (Community Advocate)**  
-★ **//**  
-★ **//**
+★ **2024 年度 Windows 商业冠军 (Commercial Champion)**  
+★ **2024 年度 Windows 云冠军 (Cloud Champion)**
 
 2024 年 03 月 - **至今** | *暂不公开*  
 2023 年 11 月 - **至今** | **Microsoft Customer Connection 计划成员**  
