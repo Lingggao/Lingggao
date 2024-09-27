@@ -27,13 +27,15 @@
 
 ## Microsoft (合作伙伴 & 供应商 & 外聘人员)
 
-<img src="https://github.com/Lingggao/Lingggao/blob/master/content.png?raw=true" width = "10%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/MCC2024.png?raw=true" width = "10%" /><img src="https://github.com/Lingggao/Lingggao/blob/master/microsoft-community-advocate-2024.png?raw=true" width = "10%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/windows-commercial-champion.png?raw=true" width = "10%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/windows-cloud-champion.png?raw=true" width = "10%" />
+<img src="https://github.com/Lingggao/Lingggao/blob/master/content.png?raw=true" width = "10%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/MCC2024.png?raw=true" width = "10%" /><img src="https://github.com/Lingggao/Lingggao/blob/master/microsoft-community-advocate-2024.png?raw=true" width = "10%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/windows-commercial-champion.png?raw=true" width = "10%" /><img src="https://github.com/Lingggao/Lingggao/blob/master/windows-cloud-champion.png?raw=true" width = "10%" />
 
 [**Microsoft 社区名人录**](https://answers.microsoft.com/zh-hans/page/faq#faqWhosWho)
 
 ★ **Microsoft 高级合作伙伴 (Elite Partner)**  
 ★ **2024 年度 Microsoft 社区贡献者 (Community Contributor)**  
-★ **2024 年度 Microsoft 社区拥护者 (Community Advocate)**
+★ **2024 年度 Microsoft 社区拥护者 (Community Advocate)**  
+★ **//**  
+★ **//**
 
 2024 年 03 月 - **至今** | *暂不公开*  
 2023 年 11 月 - **至今** | **Microsoft Customer Connection 计划成员**  
