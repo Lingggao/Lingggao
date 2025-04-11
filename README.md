@@ -4,13 +4,13 @@
 
 &emsp;&emsp;高楷修，男，汉族，2000 年 8 月生，辽宁锦州人，2021 年 9 月参加工作，2013 年 12 月加入中国共产主义青年团，新闻从业人员，文艺工作者（书法），湖南理工学院信息科学与工程学院信息工程专业毕业，本科学历，工学学士学位。
 
-&emsp;&emsp;现任微软高级合作伙伴，Windows 商业 / 云冠军。2021 年度微软 Windows Insider 最有价值专家，微软社区原支持专家。领导 Windows Insider 中国社区，广泛参与微软产品和服务的软件测试、技术支持、社区运营、本地化、宣传等工作，参与 Windows 11 等产品的战略与路线图规划设计工作。为超过 5 万名客户提供了技术支持，撰写文章惠及 500 余万人 / 次，反馈软件缺陷千余个。
+&emsp;&emsp;现任微软高级合作伙伴，Windows 商业 & 云冠军。2021 年度微软 Windows Insider 最有价值专家，微软社区原支持专家。领导 Windows Insider 中国社区，广泛参与微软产品和服务的软件测试、技术支持、社区运营、本地化、宣传等工作，参与 Windows 11 等产品的战略与路线图规划设计工作。为超过 5 万名客户提供了技术支持，撰写文章惠及 600 余万人 / 次，反馈软件缺陷千余个。
 
 ## 社会 | Social
 
+★ **中华文化促进会 会员**  
 ★ **上海城市形象数字传播合伙人**  
 ★ **视觉中国签约摄影师**  
-★ **中华文化促进会 书法教育分会 会员**  
 ★ **流香画院（北京）会员**
 
 2023 年 02 月 - **至今** | **上海某集团** | *暂不公开*  
@@ -35,8 +35,8 @@
 [**Microsoft 社区名人录**](https://answers.microsoft.com/zh-hans/page/faq#faqWhosWho)
 
 ★ **Microsoft 高级合作伙伴 (Elite Partner)**  
-★ **2024 年度 Microsoft 社区贡献者 (Community Contributor)**  
-★ **2024 年度 Microsoft 社区拥护者 (Community Advocate)**  
+★ **2024 - 25 年度 Microsoft 社区贡献者 (Community Contributor)**  
+★ **2024 - 25 年度 Microsoft 社区拥护者 (Community Advocate)**  
 ★ **2024 年度 Windows 商业冠军 (Commercial Champion)**  
 ★ **2024 年度 Windows 云冠军 (Cloud Champion)**
 
