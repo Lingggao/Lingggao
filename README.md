@@ -6,12 +6,9 @@
 
 ## 社会 | Social
 
-★ **中华文化促进会会员**  
-★ **中国职工摄影家协会会员**  
-★ **上海城市形象数字传播合伙人**  
-★ **人民摄影报社签约摄影师**  
-★ **视觉中国签约摄影师**  
-★ **流香画院（北京）会员**
+|   **★ 中华文化促进会会员**   | **★ 中国职工摄影家协会会员** | **★ 上海城市形象数字传播合伙人** |
+| :--------------------------: | :--------------------------: | :------------------------------: |
+| **★ 人民摄影报社签约摄影师** |   **★ 视觉中国签约摄影师**   |    **★ 流香画院（北京）会员**    |
 
 2023 年 02 月 - **至今** | **上海某集团** | *暂不公开*  
 2022 年 08 月 - 2023 年 02 月 | **拼多多** | **信息合规审查专员**  
@@ -29,13 +26,13 @@
 2025 年 01 月，加入[中华文化促进会](https://www.ccps.com.cn)书法教育分会。  
 2025 年 03 月，加入[中国职工摄影家协会](https://www.cwpanet.com/about-us)。
 
-## Microsoft (合作伙伴 & 供应商 & 外聘人员)
+## Microsoft (伙伴 & 供应商 & 外聘人员)
 
 <img src="https://github.com/Lingggao/Lingggao/blob/master/content.png?raw=true" width = "10%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/MCC2024.png?raw=true" width = "10%" /><img src="https://github.com/Lingggao/Lingggao/blob/master/microsoft-community-advocate-2024.png?raw=true" width = "10%" /> <img src="https://github.com/Lingggao/Lingggao/blob/master/windows-commercial-champion.png?raw=true" width = "10%" /><img src="https://github.com/Lingggao/Lingggao/blob/master/windows-cloud-champion.png?raw=true" width = "10%" /><img src="https://github.com/Lingggao/Lingggao/blob/master/microsoft-community-contributor-2025.1.png?raw=true" width = "10%" /><img src="https://github.com/Lingggao/Lingggao/blob/master/microsoft-community-advocate-2025.1.png?raw=true" width = "10%" /><img src="https://github.com/Lingggao/Lingggao/blob/master/management-community-champion-2025.png?raw=true" width = "10%" />
 
 [**Microsoft 社区名人录**](https://answers.microsoft.com/zh-hans/page/faq#faqWhosWho)
 
-★ **Microsoft 高级合作伙伴 (Elite Partner)**  
+★ **Microsoft 高级合作伙伴**  
 ★ **2025 年度 Microsoft 管理社区冠军 (Management Community Champion)**  
 ★ **2024 - 25 年度 Microsoft 社区贡献者 (Community Contributor)**  
 ★ **2024 - 25 年度 Microsoft 社区拥护者 (Community Advocate)**  
