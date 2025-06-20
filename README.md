@@ -38,6 +38,7 @@
 [**Microsoft 社区名人录**](https://answers.microsoft.com/zh-hans/page/faq#faqWhosWho)
 
 ★ **Microsoft 高级合作伙伴 (Elite Partner)**  
+★ **2025 年度 Microsoft 管理社区冠军 (Management Community Champion)**  
 ★ **2024 - 25 年度 Microsoft 社区贡献者 (Community Contributor)**  
 ★ **2024 - 25 年度 Microsoft 社区拥护者 (Community Advocate)**  
 ★ **2024 年度 Windows 商业冠军 (Commercial Champion)**  
