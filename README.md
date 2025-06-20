@@ -41,7 +41,7 @@
 
 2024 年 03 月 - **至今** | *暂不公开*  
 2023 年 11 月 - **至今** | **Microsoft Customer Connection 计划成员**  
-2021 年 02 月 - **至今** | **Microsoft Upwork 人才团队成员**  
+2021 年 02 月 - 2025 年 02 月 | **Microsoft Upwork 人才团队成员**  
 2021 年 10 月 - 2022 年 04 月 | **Microsoft 社区代理 (Agent) 兼审阅人 (Moderator)**  
 2020 年 09 月 - 2022 年 04 月 | **Microsoft 社区志愿审阅人 (Volunteer Moderator)**  
 2019 年 02 月 - 2020 年 09 月 | **Microsoft 社区独立顾问 (Independent Advisor)**
@@ -52,7 +52,7 @@
 
 [**查看证书**](https://raw.githubusercontent.com/Lingggao/Lingggao/74c732edcfbc0908365a75faa1469acad1be90fe/Ling%20Gao%20WIMVP%20Certificate.png)
 
-&emsp;&emsp;In recognition and value of your expertise, exceptional contributions, and commitment to technical communities across the globe, we are pleased to grant you the designation of Windows Insider MVP. (为表彰您的专业知识、杰出贡献以及对全球技术社区的投入，我们很高兴授予您 Windows Insider MVP 称号。)&emsp;&emsp;—— **Microsoft Corporation (微软公司)**
+&emsp;&emsp;In recognition and value of your expertise, exceptional contributions, and commitment to technical communities across the globe, we are pleased to grant you the designation of Windows Insider MVP. (为表彰您的专业知识、杰出贡献以及对全球技术社区的投入，我们很高兴授予您 Windows Insider 最有价值专家称号。)&emsp;&emsp;—— **Microsoft Corporation (微软公司)**
 
 ★ **2021 年度 Windows Insider 最有价值专家 (WIMVP)**  
 2018 年 02 月 - **至今** | **Windows 系统测试人员 (Insider)**
