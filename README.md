@@ -40,8 +40,8 @@
 ★ **2024 年度 Windows 商业冠军 (Commercial Champion)**  
 ★ **2024 年度 Windows 云冠军 (Cloud Champion)**
 
-2024 年 03 月 - **至今** | *暂不公开*  
 2023 年 11 月 - **至今** | **Microsoft Customer Connection 计划成员**  
+2024 年 03 月 - 2025 年 09 月 | **Microsoft 全球社区计划 (MGCI) 成员**  
 2021 年 02 月 - 2025 年 02 月 | **Microsoft Upwork 人才团队成员**  
 2021 年 10 月 - 2022 年 04 月 | **Microsoft 社区代理 (Agent) 兼审阅人 (Moderator)**  
 2020 年 09 月 - 2022 年 04 月 | **Microsoft 社区志愿审阅人 (Volunteer Moderator)**  
