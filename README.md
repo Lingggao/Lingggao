@@ -2,7 +2,7 @@
 
 &emsp;&emsp;高楷修，男，汉族，2000 年 8 月生，辽宁锦州人，2021 年 9 月参加工作，2013 年 12 月加入中国共产主义青年团，新闻从业人员，文艺工作者，湖南理工学院信息科学与工程学院信息工程专业毕业，本科学历，工学学士学位。
 
-&emsp;&emsp;微软高级合作伙伴，管理社区引领者，Windows 商业 & 云冠军。2021 年度微软 Windows Insider 最有价值专家，微软社区原版主、支持专家、独立顾问。领导 Windows Insider 中国社区，广泛参与微软产品的软件测试、技术支持、社区运营等工作，参与 Windows 11、Copilot 等产品的战略规划工作。为超过 5 万名客户提供了技术支持，撰写文章惠及 600 余万人次，反馈软件缺陷千余个。
+&emsp;&emsp;微软高级合作伙伴，管理社区影响力人物，Windows 商业 & 云冠军。2021 年度微软 Windows Insider 最有价值专家，微软社区原版主、支持专家、独立顾问。领导 Windows Insider 中国社区，广泛参与微软产品的软件测试、技术支持、社区运营等工作，参与 Windows 11、Copilot 等产品的战略规划工作。为超过 5 万名客户提供了技术支持，撰写文章惠及 600 余万人次，反馈软件缺陷千余个。
 
 ## 社会 | Social
 
@@ -33,7 +33,7 @@
 [**Microsoft 社区名人录**](https://answers.microsoft.com/zh-hans/page/faq#faqWhosWho)
 
 ★ **Microsoft 高级合作伙伴**  
-★ **2025 年度 Microsoft 管理社区引领者 (Management Community Influencer)**  
+★ **2025 年度 Microsoft 管理社区影响力人物 (Management Community Influencer)**  
 ★ **2025 年度 Microsoft 管理社区冠军 (Management Community Champion)**  
 ★ **2024 - 25 年度 Microsoft 社区贡献者 (Community Contributor)**  
 ★ **2024 - 25 年度 Microsoft 社区拥护者 (Community Advocate)**  
